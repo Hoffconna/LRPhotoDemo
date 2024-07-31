@@ -1,0 +1,141 @@
+2024-07-31 06:41:03 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7febb57e23e0; archive(resolved)="<IDEArchive: 0x60000d293780>", distributionTask(resolved)="2", distributionDestination(resolved)="1", distributionMethod(resolved)="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team(resolved)="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	Chain (17, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7febb57e23e0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionProcessingPipelineContext: 0x7feb61f2f710; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb51345830; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb577b8a00; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb577bff30; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb577c96d0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb577764e0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb61f260c0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb61f15080; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="<IDEProvisioningDisambiguatableBasicTeam: 0x6000028be3c0; teamID='B85SL2AS4K', teamName='xiangyu cao', teamType='Individual', username='1243746519@qq.com', isFreeProvisioningTeam='0'>">
+	<IDEDistributionContext: 0x7feb61f14e50; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="(null)">
+	<IDEDistributionContext: 0x7feb61f14a20; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="(null)">
+	<IDEDistributionContext: 0x7feb577a5270; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="(null)">
+	<IDEDistributionContext: 0x7feb52bf0260; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="<IDEDistributionMethodiOSAdHoc: 0x6000075b1e80>", team="(null)">
+	<IDEDistributionContext: 0x7feb577c0680; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7feb5779f130; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7feb577b0ad0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="(null)", team="(null)">
+	<IDEDistributionContext: 0x7feb552fb9e0; archive = "<IDEArchive: 0x60000d293780>", distributionMethod="(null)", team="(null)">
+</IDEDistributionProcessingPipelineContext: 0x7febb57e23e0>
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCreateDestRootStep
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCopyItemStep
+2024-07-31 06:41:03 +0000  Running /usr/bin/ditto '-V' '/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app' '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app'
+2024-07-31 06:41:03 +0000  >>> Copying /Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app 
+2024-07-31 06:41:03 +0000  copying file ./_CodeSignature/CodeResources ... 
+2024-07-31 06:41:03 +0000  3895 bytes for ./_CodeSignature/CodeResources
+2024-07-31 06:41:03 +0000  copying file ./devicefinger ... 
+2024-07-31 06:41:03 +0000  110464 bytes for ./devicefinger
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-07-31 06:41:03 +0000  1003 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-07-31 06:41:03 +0000  5512 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2024-07-31 06:41:03 +0000  258 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-07-31 06:41:03 +0000  1225 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-07-31 06:41:03 +0000  924 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2024-07-31 06:41:03 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-07-31 06:41:03 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-07-31 06:41:03 +0000  copying file ./embedded.mobileprovision ... 
+2024-07-31 06:41:03 +0000  21403 bytes for ./embedded.mobileprovision
+2024-07-31 06:41:03 +0000  copying file ./Info.plist ... 
+2024-07-31 06:41:03 +0000  1497 bytes for ./Info.plist
+2024-07-31 06:41:03 +0000  copying file ./PkgInfo ... 
+2024-07-31 06:41:03 +0000  8 bytes for ./PkgInfo
+2024-07-31 06:41:03 +0000  /usr/bin/ditto exited with 0
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionEmbedProfileStep
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionInfoPlistStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionSymbolsStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionAppThinningStep
+2024-07-31 06:41:03 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionArchThinningStep
+2024-07-31 06:41:03 +0000  Item /Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app doesn't have the entitlement com.apple.developer.web-browser-engine.host enabled, returning ["arm64e"]
+2024-07-31 06:41:03 +0000  Archs to thin for item /Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app are ["arm64e"]
+2024-07-31 06:41:03 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app/devicefinger' '-verify_arch' 'arm64e'
+2024-07-31 06:41:03 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2024-07-31 06:41:03 +0000  Skipping architecture thinning for item "devicefinger" because arch "arm64e" wasn't found
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionODRStep
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionStripXattrsStep
+2024-07-31 06:41:03 +0000  Skipping stripping extended attributes because the codesign step will strip them.
+2024-07-31 06:41:03 +0000  Processing step: IDEDistributionCodesignStep
+2024-07-31 06:41:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d363ba0; bundleID='hoffconna.com.widget.devicefinger2', path='<DVTFilePath:0x600009a63f80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000116568a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000043a83c0; name='Apple Development: xiangyu cao (8A355VJHPD)', hash='C18906E782E41B40803735F86E0B85A7D5F6135C', serialNumber='9B20C2B0583CB70052F547D8581F552', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-24 08:48:06 +0000''>', entitlements='{
+    "application-identifier" = "B85SL2AS4K.hoffconna.com.widget.devicefinger2";
+    "com.apple.developer.team-identifier" = B85SL2AS4K;
+    "get-task-allow" = 1;
+}', teamID='B85SL2AS4K', identifier='hoffconna.com.widget.devicefinger2', executablePath='<DVTFilePath:0x6000099b6d80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app/devicefinger'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "B85SL2AS4K.hoffconna.com.widget.devicefinger2";
+    "com.apple.developer.team-identifier" = B85SL2AS4K;
+    "get-task-allow" = 0;
+}
+2024-07-31 06:41:03 +0000  Associated App Clip Identifiers Filter: Skipping because "com.apple.developer.associated-appclip-app-identifiers" is not present
+2024-07-31 06:41:03 +0000  Entitlements for <IDEDistributionItem: 0x60000d363ba0; bundleID='hoffconna.com.widget.devicefinger2', path='<DVTFilePath:0x600009a63f80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000116568a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x600000c133c0; name='Apple Development: xiangyu cao (8A355VJHPD)', hash='C18906E782E41B40803735F86E0B85A7D5F6135C', serialNumber='9B20C2B0583CB70052F547D8581F552', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-24 08:48:06 +0000''>', entitlements='{
+    "application-identifier" = "B85SL2AS4K.hoffconna.com.widget.devicefinger2";
+    "com.apple.developer.team-identifier" = B85SL2AS4K;
+    "get-task-allow" = 1;
+}', teamID='B85SL2AS4K', identifier='hoffconna.com.widget.devicefinger2', executablePath='<DVTFilePath:0x6000099b6d80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app/devicefinger'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "B85SL2AS4K.hoffconna.com.widget.devicefinger2";
+    "com.apple.developer.team-identifier" = B85SL2AS4K;
+    "get-task-allow" = 0;
+}
+2024-07-31 06:41:03 +0000  Writing entitlements for <IDEDistributionItem: 0x60000d363ba0; bundleID='hoffconna.com.widget.devicefinger2', path='<DVTFilePath:0x600009a63f80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x6000116568a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x6000043b9bc0; name='Apple Development: xiangyu cao (8A355VJHPD)', hash='C18906E782E41B40803735F86E0B85A7D5F6135C', serialNumber='9B20C2B0583CB70052F547D8581F552', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2024-05-24 08:48:06 +0000''>', entitlements='{
+    "application-identifier" = "B85SL2AS4K.hoffconna.com.widget.devicefinger2";
+    "com.apple.developer.team-identifier" = B85SL2AS4K;
+    "get-task-allow" = 1;
+}', teamID='B85SL2AS4K', identifier='hoffconna.com.widget.devicefinger2', executablePath='<DVTFilePath:0x6000099b6d80:'/Users/bytedance/Library/Developer/Xcode/Archives/2024-07-31/devicefinger 7-31-24, 2.40 PM.xcarchive/Products/Applications/devicefinger.app/devicefinger'>', hardenedRuntime='0'>'> to: /var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/entitlements~~~B1sMfb
+2024-07-31 06:41:03 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' '4E417EA97C8BFF86B179DE4ACFE152F9FB7649E8' '--entitlements' '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/entitlements~~~B1sMfb' '--generate-entitlement-der' '--strip-disallowed-xattrs' '--preserve-metadata=identifier,flags,runtime' '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app'
+2024-07-31 06:41:03 +0000  /var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app: replacing existing signature
+2024-07-31 06:41:04 +0000  /var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app: signed app bundle with Mach-O thin (arm64) [hoffconna.com.widget.devicefinger2]
+2024-07-31 06:41:04 +0000  /usr/bin/codesign exited with 0
+2024-07-31 06:41:04 +0000  Processing step: IDEDistributionZipODRItemStep
+2024-07-31 06:41:04 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2024-07-31 06:41:04 +0000  Processing step: IDEDistributionCreateIPAStep
+2024-07-31 06:41:04 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root' '/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Packages/devicefinger.ipa'
+2024-07-31 06:41:04 +0000  >>> Copying /var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root 
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/_CodeSignature/CodeResources ... 
+2024-07-31 06:41:04 +0000  3895 bytes for ./Payload/devicefinger.app/_CodeSignature/CodeResources
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/devicefinger ... 
+2024-07-31 06:41:04 +0000  110480 bytes for ./Payload/devicefinger.app/devicefinger
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2024-07-31 06:41:04 +0000  1003 bytes for ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2024-07-31 06:41:04 +0000  5512 bytes for ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2024-07-31 06:41:04 +0000  258 bytes for ./Payload/devicefinger.app/Base.lproj/Main.storyboardc/Info.plist
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2024-07-31 06:41:04 +0000  1225 bytes for ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2024-07-31 06:41:04 +0000  924 bytes for ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+copying file ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2024-07-31 06:41:04 +0000  258 bytes for ./Payload/devicefinger.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/embedded.mobileprovision ... 
+2024-07-31 06:41:04 +0000  17555 bytes for ./Payload/devicefinger.app/embedded.mobileprovision
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/Info.plist ... 
+2024-07-31 06:41:04 +0000  1497 bytes for ./Payload/devicefinger.app/Info.plist
+2024-07-31 06:41:04 +0000  copying file ./Payload/devicefinger.app/PkgInfo ... 
+2024-07-31 06:41:04 +0000  8 bytes for ./Payload/devicefinger.app/PkgInfo
+2024-07-31 06:41:04 +0000  /usr/bin/ditto exited with 0
+2024-07-31 06:41:04 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2024-07-31 06:41:04 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2024-07-31 06:41:04 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2024-07-31 06:41:04 +0000  IDEDistributionItem init <DVTFilePath:0x600009ac9580:'/var/folders/p0/kb961x5d6wd79gfp2h6t_8500000gn/T/XcodeDistPipeline.~~~9wZkZ2/Root/Payload/devicefinger.app'>
+2024-07-31 06:41:04 +0000  Processing step: IDEDistributionCreateManifestStep

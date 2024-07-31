@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>devicefinger.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>buildNumber</key>
+			<string>1</string>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>4E417EA97C8BFF86B179DE4ACFE152F9FB7649E8</string>
+				<key>dateExpires</key>
+				<string>5/16/25</string>
+				<key>type</key>
+				<string>Apple Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>B85SL2AS4K.hoffconna.com.widget.devicefinger2</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>B85SL2AS4K</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>devicefinger.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>d8e7e511-d63a-4de4-b152-334c962740f0</string>
+				<key>dateExpires</key>
+				<string>5/16/25</string>
+				<key>name</key>
+				<string>iOS Team Ad Hoc Provisioning Profile: hoffconna.com.widget.devicefinger2</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>B85SL2AS4K</string>
+				<key>name</key>
+				<string>xiangyu cao</string>
+			</dict>
+			<key>versionNumber</key>
+			<string>1.0</string>
+		</dict>
+	</array>
+</dict>
+</plist>
