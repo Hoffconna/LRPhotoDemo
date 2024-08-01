@@ -33,7 +33,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>hoffconna.com.widget.devicefinger2</string>
+				<string>hoffconna.com.widget.devicefinger</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
