@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>hoffconna.com.widget.devicefinger</string>
+				<string>com.hoffconnaa.cloudphonefind</string>
 				<key>bundle-version</key>
 				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>devicefinger</string>
+				<string>cloudphonefind</string>
 			</dict>
 		</dict>
 	</array>
